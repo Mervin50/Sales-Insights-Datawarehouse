@@ -24,8 +24,6 @@
 
 - Used BULK INSERT to load CSV data from local filesystem
 
-- Corrected syntax: single quotes for file paths
-
 - Ensured each table was truncated before load
 
 4. Metadata Exploration
