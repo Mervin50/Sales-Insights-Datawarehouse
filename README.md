@@ -26,6 +26,7 @@
 
 - Ensured each table was truncated before load
 
+
 4. Metadata Exploration
 
 - Queried INFORMATION_SCHEMA.TABLES and COLUMNS
@@ -36,11 +37,13 @@
 
 <img width="502" height="97" alt="imaGE DE" src="https://github.com/user-attachments/assets/eceb8c86-2fbf-4110-a142-b7112944d1c1" />
 
+
 5. Dimension Insights
 
 - Extracted distinct countries, categories, subcategories, product names
 
 <img width="401" height="448" alt="imaGE DE" src="https://github.com/user-attachments/assets/72ec49e7-0351-4860-b737-a97c6ce6ce60" />
+
 
 6. Fact Table Exploration
 
@@ -63,6 +66,7 @@
 <img width="112" height="47" alt="imaGE DE" src="https://github.com/user-attachments/assets/80ee88a2-41b4-4bda-9827-b5034e3611e4" />
 
 
+
 7. Summary Report (KPI Dashboard)
 - Used UNION ALL to generate a consolidated metrics report:
 
@@ -81,6 +85,7 @@ ght="50" alt="imaGE DE" src="https://github.com/user-attachments/assets/b95ea81e
 
 
 <img width="287" height="157" alt="image" src="https://github.com/user-attachments/assets/90aaab45-f50b-4d1f-89b2-80caf6f85638" />
+
 
 
 8. Grouped Aggregations
@@ -102,6 +107,7 @@ ght="50" alt="imaGE DE" src="https://github.com/user-attachments/assets/b95ea81e
 <img width="196" height="132" alt="imaGE DE" src="https://github.com/user-attachments/assets/6f0221e8-f572-42ac-b2e1-4e5d8d8d177a" />
 
 
+
 9. Revenue Analysis
 
 - Revenue by product category
@@ -115,6 +121,7 @@ ght="50" alt="imaGE DE" src="https://github.com/user-attachments/assets/b95ea81e
 - Item distribution across countries
 
 <img width="255" height="177" alt="imaGE DE" src="https://github.com/user-attachments/assets/f7bb780d-f21e-4980-915a-f2363dbde96e" />
+
 
 
 10. Performance Ranking
