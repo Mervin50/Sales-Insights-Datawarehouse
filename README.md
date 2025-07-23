@@ -73,10 +73,11 @@
 
 - Total Sales, Quantity, Average Price, Orders, Products, Customers
   
+Total Orders: 
 
 <img width="137" height="272" alt="imaGE DE" src="https://github.com/user-attachments/assets/767ff57a-8f89-4715-8840-e810599e2436" />
 
-
+Tota
 
 <img width="160" hei<img width="140" height="262" alt="imaGE DE" src="https://github.com/user-attachments/assets/4a8f2981-e793-47c1-9dd4-bd1882008944" />
 
