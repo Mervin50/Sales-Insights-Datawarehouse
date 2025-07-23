@@ -52,7 +52,7 @@
 <img width="375" height="53" alt="imaGE DE" src="https://github.com/user-attachments/assets/dda18042-bfe6-4ca5-8704-d04d1eed4036" />
 
 - Find the youngest and the oldest customer
-- 
+  
 <img width="442" height="50" alt="imaGE DE" src="https://github.com/user-attachments/assets/9994493a-63ea-4da2-bfd4-43544617427d" />
 
 - Calculated total sales, quantities, average price, order counts
@@ -76,9 +76,6 @@
 
 
 <img width="160" hei<img width="140" height="262" alt="imaGE DE" src="https://github.com/user-attachments/assets/4a8f2981-e793-47c1-9dd4-bd1882008944" />
-
-
-ght="50" alt="imaGE DE" src="https://github.com/user-attachments/assets/b95ea81e-acce-4646-8082-d1c01508b4c6" />
 
 
 <img width="147" height="55" alt="image" src="https://github.com/user-attachments/assets/3414d60a-5e92-492a-b82e-cc54ef6f7caa" />
