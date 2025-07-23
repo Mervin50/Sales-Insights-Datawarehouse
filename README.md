@@ -77,9 +77,9 @@ Total Orders:
 
 <img width="137" height="272" alt="imaGE DE" src="https://github.com/user-attachments/assets/767ff57a-8f89-4715-8840-e810599e2436" />
 
-Tota
+Total Products: 
 
-<img width="160" hei<img width="140" height="262" alt="imaGE DE" src="https://github.com/user-attachments/assets/4a8f2981-e793-47c1-9dd4-bd1882008944" />
+<img width="143" height="262" alt="imaGE DE" src="https://github.com/user-attachments/assets/31811ab5-7dc4-4ee9-a689-d47caee5637d" />
 
 Total Customers:
 
