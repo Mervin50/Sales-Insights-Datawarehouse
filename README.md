@@ -1,3 +1,9 @@
+
+<img width="386" height="237" alt="imaGE DE" src="https://github.com/user-attachments/assets/dd8603e5-0a17-4764-81c4-81a13e157d35" />
+
+
+
+
 # Sales-Insights-Datawarehouse
 
 
