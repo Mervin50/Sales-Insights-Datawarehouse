@@ -2,7 +2,7 @@
 
 
 
-1. Database Setup
+# 1. Database Setup
    
 - Checked for existing 'DataWarehouseAnalytics' DB and dropped it
 
@@ -10,7 +10,7 @@
 
 - Defined a custom schema: 'gold'
 
-2. Schema Design
+# 2. Schema Design
    
 - Created 3 core tables under 'gold'
 
@@ -20,14 +20,14 @@
 
   c. fact_sales
 
-3. Data Loading
+# 3. Data Loading
 
 - Used BULK INSERT to load CSV data from local filesystem
 
 - Ensured each table was truncated before load
 
 
-4. Metadata Exploration
+# 4. Metadata Exploration
 
 - Queried INFORMATION_SCHEMA.TABLES and COLUMNS
 
@@ -38,14 +38,14 @@
 <img width="502" height="97" alt="imaGE DE" src="https://github.com/user-attachments/assets/eceb8c86-2fbf-4110-a142-b7112944d1c1" />
 
 
-5. Dimension Insights
+# 5. Dimension Insights
 
 - Extracted distinct countries, categories, subcategories, product names
 
 <img width="401" height="448" alt="imaGE DE" src="https://github.com/user-attachments/assets/72ec49e7-0351-4860-b737-a97c6ce6ce60" />
 
 
-6. Fact Table Exploration
+# 6. Fact Table Exploration
 
 - Found first/last order dates and sales range
 
@@ -67,7 +67,7 @@
 
 
 
-7. Summary Report (KPI Dashboard)
+# 7. Summary Report (KPI Dashboard)
    
 - Used UNION ALL to generate a consolidated metrics report:
 
@@ -91,7 +91,7 @@ Measure Price:
 
 
 
-8. Grouped Aggregations
+# 8. Grouped Aggregations
 
 - Total customers by gender and country
 
@@ -111,7 +111,7 @@ Measure Price:
 
 
 
-9. Revenue Analysis
+# 9. Revenue Analysis
 
 - Revenue by product category
 
@@ -127,7 +127,7 @@ Measure Price:
 
 
 
-10. Performance Ranking
+# 10. Performance Ranking
 
 - Top 5 products by revenue (subcategories + product names)
 
