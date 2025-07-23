@@ -68,17 +68,22 @@
 
 
 7. Summary Report (KPI Dashboard)
+   
 - Used UNION ALL to generate a consolidated metrics report:
 
 - Total Sales, Quantity, Average Price, Orders, Products, Customers
+  
 
 <img width="137" height="272" alt="imaGE DE" src="https://github.com/user-attachments/assets/767ff57a-8f89-4715-8840-e810599e2436" />
+
 
 
 <img width="160" hei<img width="140" height="262" alt="imaGE DE" src="https://github.com/user-attachments/assets/4a8f2981-e793-47c1-9dd4-bd1882008944" />
 
 
+
 <img width="147" height="55" alt="image" src="https://github.com/user-attachments/assets/3414d60a-5e92-492a-b82e-cc54ef6f7caa" />
+
 
 
 <img width="287" height="157" alt="image" src="https://github.com/user-attachments/assets/90aaab45-f50b-4d1f-89b2-80caf6f85638" />
