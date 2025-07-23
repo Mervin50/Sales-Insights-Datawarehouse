@@ -14,11 +14,11 @@
    
 - Created 3 core tables under 'gold':
 
-a. dim_customers
+ a. dim_customers
 
-b. dim_products
+ b. dim_products
 
-c. fact_sales
+ c. fact_sales
 
 3. Data Loading
 
